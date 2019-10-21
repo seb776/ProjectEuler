@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="IProblemSolver.cs" />
     <Compile Include="P0004.cs" />
+    <Compile Include="P0108.cs" />
     <Compile Include="P0005.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

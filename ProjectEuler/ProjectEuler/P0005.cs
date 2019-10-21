@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectEuler
+namespace ProjectEuler.P0005
 {
     class P0005 : IProblemSolver
     {
