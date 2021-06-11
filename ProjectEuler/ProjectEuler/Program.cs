@@ -10,7 +10,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            IProblemSolver solver = new P0108.P0108();
+            IProblemSolver solver = new P0025.P0025();
 
             solver.Run();
         }
